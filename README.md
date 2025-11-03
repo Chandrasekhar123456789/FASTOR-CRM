@@ -45,4 +45,6 @@ To use the frontend:
 - Database is SQLite file stored at `backend/database.sqlite` (auto-created).
 - This deliverable focuses on a secure API and a minimal interactive frontend showcasing the required flows with a pleasant UI (Tailwind) and light animations (AOS).
 - Advanced features included: input validation hints, friendly error messages, clear status codes, and simple client-side UX polish.
+  Published Link:https://fastor-crm-di7y.onrender.com
+  
 
